@@ -1,0 +1,28 @@
+{
+    "title":{
+        "login": "Enter your Open Weather Map API Key:"
+    },
+    "placeholder": {
+        "key": "sample: {{ ex }}"
+    },
+    "caption": {
+        "submit": "submit"
+    },
+    "language": "Language",
+    "measure_system": "Measure units",
+    "default": "Default",
+    "imperial_system": "Imperial system",
+    "metric_system": "Metric system",
+    "country": "Country",
+    "France": "France",
+    "Spain": "Spain",
+    "Germany": "Germany",
+    "Italy": "Italy",
+    "United_States": "United States",
+    "Canada": "Canada",
+    "China": "China",
+    "Korea": "South Korea",
+    "Japan": "Japan",
+    "city": "City",
+    "use_detection": "Detect location"
+}

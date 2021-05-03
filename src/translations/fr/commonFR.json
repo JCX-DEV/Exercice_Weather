@@ -1,0 +1,28 @@
+{
+    "title":{
+        "login": "Saisir l'API Key de Open Weather Map :"
+    },
+    "placeholder": {
+        "key": "exemple: {{ ex }}"
+    },
+    "caption": {
+        "submit": "envoyer"
+    },
+    "language": "Langue",
+    "measure_system": "Unités de mesure",
+    "default": "Défaut",
+    "imperial_system": "Système impérial",
+    "metric_system": "Système métrique", 
+    "country": "Pays",   
+    "France": "France",
+    "Spain": "Espagne",
+    "Germany": "Allemagne",
+    "Italy": "Italie",
+    "United_States": "Etats Unis",
+    "Canada": "Canada",
+    "China": "Chine",
+    "Korea": "Corée du Sud",
+    "Japan": "Japon",
+    "city": "Ville",
+    "use_detection": "Détecter la position"
+}

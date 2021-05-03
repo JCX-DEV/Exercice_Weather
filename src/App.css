@@ -1,0 +1,64 @@
+.app-weather{
+    color: #383838;
+}
+
+.app-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 240px;
+    box-shadow: 0 5px 5px #bdbdbd;
+    background-color: white;
+    z-index: 10;    
+}
+
+.app-header-logo{
+    height: 115px;
+    margin: 10px 20px;
+}
+
+.app-header-settings{
+    float: right;
+    margin: 44px 20px 0 0;
+}
+
+.app-header-navigation{    
+    height: 90px;
+    margin: 0 20px 10px 150px;
+}
+
+.app-content{
+    position: relative;
+    top: 230px;
+    width: 100vw;
+    height: calc(100vh - 240px);
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.app-content-left{
+    display: inline-block;
+    width: 650px;    
+}
+
+.app-content-right{
+    display: inline-block;
+    width: calc(100vw - 670px);
+    height: calc(100vh - 280px);
+    padding: 10px;
+}
+
+.app-map-iframe{
+    border: 1px solid #e96e50;
+}
+
+.app-content-weather-forecast{
+    width: 590px;
+    margin-left: 30px;
+    height: calc(100vh - 450px);
+    overflow-y: scroll;
+    text-align: center;
+    border-radius: 10px;
+    background: linear-gradient(#e96e5020, #e96e507f);
+}
