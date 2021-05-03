@@ -1,4 +1,4 @@
-# Application 
+# Application météo
 
 ![main](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_manual.png "Main view")
 
@@ -49,26 +49,31 @@ Pour les couleurs, la couleur dominante d'Open Weather Map a été reprise comme
 
 
 **Ecran de login :** 
+
 (L'API KEY n'est pas partagée dans le dépôt public et doit être saisie manuellement)
 
 ![login](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_login.png "Login")
 
 **Météo pour la position détectée :**
+
 (langue du navigateur et unités de mesure automatiquement détectées)
 
 ![detection](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_auto.png "Location detection")
 
 **Météo pour la position choisie :**
+
 (langue et unités de mesure manuellement modifiées, la date est formatée en fonction de la langue)
 
 ![manual](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_english.png "Manual location")
 
 **Prévisions sur plusieurs jours :**
+
 (Les prévisions vont jusqu'à une semaine)
 
 ![forecast](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_forecast.png "Forecast")
 
 **Adapté à la taille de la fenêtre :**
+
 (La zone déroulante des prévisions occupe la hauteur disponible, la zone map occupe la largeur et la hauteur disponibles)
 
 ![responsive](https://github.com/JCX-DEV/Exercice_Weather/blob/main/screenshots/screen_responsive.png "Responsive")
